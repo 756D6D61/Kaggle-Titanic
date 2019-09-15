@@ -10,7 +10,7 @@ The aim of the Titanic problem is to predict the people who survived the Titanic
 * Python
 
 ### 🔧How to Run the App
-* In your terminal run `python titanic.py` and the output will a CSV
+* In your terminal run `python solution.py` and the output will a CSV
 * The CSV file in the project submission 
 
 ### 💭Future Improvements
